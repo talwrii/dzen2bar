@@ -19,7 +19,7 @@ The easiest setup is probably to use i3cat
 
 ## Caveats
 
-* The `min_width` and `pango properties` are not supported - though they can be ignored with appropriate command line arguments.
+* The `min_width` and `pango` properties are not supported - though they can be ignored with appropriate command line arguments.
 * No attempt is made to escape dzen2 formatting markup. This could be considered a feature.
 
 ## Alternatives
